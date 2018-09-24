@@ -1,0 +1,24 @@
+{
+    "autoMobile": [
+    {
+    "lat": 16.9129,
+    "lng": 80.748,
+    "name": "Medha Towers"
+    },
+    {
+    "lat": 14.1715428,
+    "lng": 77.62720279999996,
+    "name": "KIA Motors"
+    },
+    {
+    "lat": 13.5239394,
+    "lng": 79.9569698,
+    "name": "Hero Motors"
+    },
+    {
+    "lat": 13.5176909,
+    "lng": 79.9732776,
+    "name": "Pepsi Co"
+    }
+    ]
+}

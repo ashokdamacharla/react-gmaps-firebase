@@ -1,0 +1,24 @@
+{
+  "name": "apmaps",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "1.0.0",
+    "@material-ui/icons": "1.0.0",
+    "@material/top-app-bar": "0.36.0",
+    "eslint": "^5.0.1",
+    "firebase": "^5.3.1",
+    "google-map-react": "^1.0.4",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-pure-render": "^1.0.2",
+    "react-router-dom": "4.2.2",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
